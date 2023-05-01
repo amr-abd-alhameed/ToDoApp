@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ToDoApp/static/css/main.e9d3f231.css",
-    "main.js": "/ToDoApp/static/js/main.f3cc8cdb.js",
-    "index.html": "/ToDoApp/index.html",
-    "main.e9d3f231.css.map": "/ToDoApp/static/css/main.e9d3f231.css.map",
-    "main.f3cc8cdb.js.map": "/ToDoApp/static/js/main.f3cc8cdb.js.map"
+    "main.css": "/Pokemon-App/static/css/main.e9d3f231.css",
+    "main.js": "/Pokemon-App/static/js/main.f3cc8cdb.js",
+    "index.html": "/Pokemon-App/index.html",
+    "main.e9d3f231.css.map": "/Pokemon-App/static/css/main.e9d3f231.css.map",
+    "main.f3cc8cdb.js.map": "/Pokemon-App/static/js/main.f3cc8cdb.js.map"
   },
   "entrypoints": [
     "static/css/main.e9d3f231.css",
