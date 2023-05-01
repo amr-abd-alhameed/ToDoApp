@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amr-abd-alhameed/ToDoApp/static/css/main.e9d3f231.css",
+    "main.js": "/amr-abd-alhameed/ToDoApp/static/js/main.f3cc8cdb.js",
+    "index.html": "/amr-abd-alhameed/ToDoApp/index.html",
+    "main.e9d3f231.css.map": "/amr-abd-alhameed/ToDoApp/static/css/main.e9d3f231.css.map",
+    "main.f3cc8cdb.js.map": "/amr-abd-alhameed/ToDoApp/static/js/main.f3cc8cdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9d3f231.css",
+    "static/js/main.f3cc8cdb.js"
+  ]
+}
